@@ -863,6 +863,10 @@ footer {
 
 .popup-comment {
   border-top: 1px dashed #efefef;
+  margin-bottom: 25px;
+}
+.popup-comment.--comment-answer {
+  margin-top: -12px;
 }
 
 .popup-comment__head {
